@@ -1,0 +1,3 @@
+# Platform absorbs the cost of under-filled print batches
+
+A Print Batch that closes via its 14-day time-box instead of reaching 10 Orders costs more per unit to produce. We decided the platform absorbs that extra cost, rather than passing it to designers (lower payout per unit) or customers (variable checkout price). Designers are casual creators rather than professional sellers, and customers already locked in a price at checkout — surprising either party with the cost consequences of *other people's* purchasing behavior is a bad experience. The platform is also the only party with visibility into batching economics across all designs, so it's best positioned to absorb the variance.

@@ -1,0 +1,3 @@
+# Designer earnings accrue continuously, disbursed on a biweekly Payout cycle
+
+When a Print Batch closes or a Rush Order ships, the designer's earning for that production event is immediately added to their Balance. Actual money movement to the designer's payment method only happens on a fixed biweekly Payout cycle, rather than transferring funds at the moment each batch/Rush Order closes. This follows the standard marketplace pattern (Etsy, app stores): designers get real-time visibility into what they've earned, while the platform keeps payment-processing overhead low by batching disbursements into a predictable cadence instead of triggering a transfer on every individual batch-close event, which could happen many times a day across many designs.

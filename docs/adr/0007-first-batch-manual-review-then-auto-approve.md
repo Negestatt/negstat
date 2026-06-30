@@ -1,0 +1,5 @@
+# First Print Batch per design requires manual review; later batches can auto-approve
+
+When a design's first Print Batch closes, it requires manual review (content/trademark moderation) before being sent to the printer. Once that first batch is approved, subsequent Print Batches for the same design can be configured to auto-approve and go straight to print without further review. We chose this over reviewing every batch, because a design's content doesn't change between batches — the moderation risk is really about the design itself, not each individual print run — so requiring re-review every time a design happens to sell again would be pure overhead with no added safety. Every design still gets at least one human look before it ever reaches a physical printer.
+
+Auto-approval is on by default the moment the first batch is approved — no designer or admin action is required to enable it. An admin can still revoke auto-approval for a specific design later (e.g. if a designer turns out to be a repeat copyright offender), reverting that design back to manual review for future batches.

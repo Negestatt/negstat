@@ -1,0 +1,5 @@
+# Orders are always fulfilled, regardless of demand
+
+Designs require a minimum of 10 orders before a print batch is sent to the printer, but this threshold is an internal production-batching trigger, not a customer-facing pre-order condition. We will never cancel or refund an Order because too few other customers ordered the same design — the platform absorbs that risk by waiting until enough orders accumulate before printing. We chose this over a crowdfunding/pre-order model because a customer-facing "your order might not happen" undermines trust in a marketplace, and nothing in the original user stories anticipated refunds-for-low-demand as a customer experience.
+
+To keep the guarantee honest, each design is promoted by default (to help it reach 10 organically) and is also subject to a hard 14-day time-box: if a design hasn't reached 10 orders within 14 days of its first order, the batch prints anyway with whatever orders it has. This bounds the maximum wait a customer can experience, even for designs that never gain traction.
