@@ -1,0 +1,98 @@
+[
+	{
+		"id": "p1", "title": "Midnight Wave", "priceBirr": 1200, "rushFeeBirr": 500,
+		"accent": "#4A5FCF", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b1", "name": "Nova Collective", "handle": "@novacollective", "followers": 12340, "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p2", "title": "Fractal Mind", "priceBirr": 1300, "rushFeeBirr": 500,
+		"accent": "#9B51E0", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b1", "name": "Nova Collective", "handle": "@novacollective", "followers": 12340, "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p3", "title": "Aurora", "priceBirr": 1100, "rushFeeBirr": 500,
+		"accent": "#6366F1", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b1", "name": "Nova Collective", "handle": "@novacollective", "followers": 12340, "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p4", "title": "Nebula", "priceBirr": 1400, "rushFeeBirr": 500,
+		"accent": "#4338CA", "trending": false, "sizes": ["M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b1", "name": "Nova Collective", "handle": "@novacollective", "followers": 12340, "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p5", "title": "Velocity", "priceBirr": 1150, "rushFeeBirr": 500,
+		"accent": "#E94560", "trending": true, "sizes": ["M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b2", "name": "Axis Studios", "handle": "@axisstudios", "followers": 8670, "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p6", "title": "Static", "priceBirr": 990, "rushFeeBirr": 500,
+		"accent": "#6C757D", "trending": false, "sizes": ["M", "L"],
+		"imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b2", "name": "Axis Studios", "handle": "@axisstudios", "followers": 8670, "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p7", "title": "Redline", "priceBirr": 1250, "rushFeeBirr": 500,
+		"accent": "#DC2626", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b2", "name": "Axis Studios", "handle": "@axisstudios", "followers": 8670, "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p8", "title": "Apex", "priceBirr": 1350, "rushFeeBirr": 500,
+		"accent": "#F97316", "trending": false, "sizes": ["M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1618517351616-38fb9c5210c6?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b2", "name": "Axis Studios", "handle": "@axisstudios", "followers": 8670, "avatarUrl": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p9", "title": "Bloom", "priceBirr": 1450, "rushFeeBirr": 500,
+		"accent": "#F7B32B", "trending": true, "sizes": ["S", "M", "L"],
+		"imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b3", "name": "Bloom Designs", "handle": "@bloomdesigns", "followers": 5420, "avatarUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p10", "title": "Wildflower", "priceBirr": 1300, "rushFeeBirr": 500,
+		"accent": "#10B981", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b3", "name": "Bloom Designs", "handle": "@bloomdesigns", "followers": 5420, "avatarUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p11", "title": "Sunbeam", "priceBirr": 1100, "rushFeeBirr": 500,
+		"accent": "#FACC15", "trending": false, "sizes": ["M", "L"],
+		"imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b3", "name": "Bloom Designs", "handle": "@bloomdesigns", "followers": 5420, "avatarUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p12", "title": "Meadow", "priceBirr": 1200, "rushFeeBirr": 500,
+		"accent": "#22C55E", "trending": false, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b3", "name": "Bloom Designs", "handle": "@bloomdesigns", "followers": 5420, "avatarUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p13", "title": "Echo Chamber", "priceBirr": 1150, "rushFeeBirr": 500,
+		"accent": "#2EC4B6", "trending": true, "sizes": ["M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b4", "name": "Echo Merch", "handle": "@echomerch", "followers": 3210, "avatarUrl": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p14", "title": "Frequency", "priceBirr": 1050, "rushFeeBirr": 500,
+		"accent": "#06B6D4", "trending": false, "sizes": ["S", "M", "L"],
+		"imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b4", "name": "Echo Merch", "handle": "@echomerch", "followers": 3210, "avatarUrl": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p15", "title": "Resonance", "priceBirr": 1300, "rushFeeBirr": 500,
+		"accent": "#0EA5E9", "trending": true, "sizes": ["S", "M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b4", "name": "Echo Merch", "handle": "@echomerch", "followers": 3210, "avatarUrl": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&h=200&q=80&auto=format&fit=crop" }
+	},
+	{
+		"id": "p16", "title": "Soundwave", "priceBirr": 990, "rushFeeBirr": 500,
+		"accent": "#14B8A6", "trending": false, "sizes": ["M", "L", "XL"],
+		"imageUrl": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=800&q=80&auto=format&fit=crop",
+		"brand": { "id": "b4", "name": "Echo Merch", "handle": "@echomerch", "followers": 3210, "avatarUrl": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&h=200&q=80&auto=format&fit=crop" }
+	}
+]
